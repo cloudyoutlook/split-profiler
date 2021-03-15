@@ -1,0 +1,9 @@
+https://developer.android.com/studio/build/configure-apk-splits
+https://developer.android.com/studio/build/manifest-merge
+https://developer.android.com/studio/command-line/bundletool
+https://developer.android.com/studio/build/configure-apk-splits.html
+https://developer.android.com/reference/tools/gradle-api/7.0/com/android/build/api/dsl/Splits
+https://developer.android.com/guide/app-bundle
+https://proandroiddev.com/modular-and-dynamic-app-delivery-android-app-bundle-9bbfac814787
+https://proandroiddev.com/dynamic-feature-module-android-ondemand-module-android-app-bundle-ea0d872b32d
+https://developer.android.com/guide/topics/manifest/supports-gl-texture-element

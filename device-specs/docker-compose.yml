@@ -1,0 +1,5 @@
+version: "3.9"
+services:
+  robot-runner:
+    build: .
+    image: robot-runner:0.1
